@@ -7,17 +7,9 @@ function tres () {
     cuatro()
 }
 
-function dos () {
-    console.log("dos")
-    tres()
-}
 
-function uno () {
-    console.log("uno")
-    dos()
-}
 
-uno()
+
 
 
 
